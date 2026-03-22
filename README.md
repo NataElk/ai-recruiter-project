@@ -473,7 +473,7 @@ Follow these steps to run the AI Recruiter locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-recruiter-project.git
+git clone https://github.com/NataElk/ai-recruiter-project.git
 cd ai-recruiter-project
 ```
 
@@ -679,6 +679,8 @@ This project is open source and available under the MIT License.
 
 **Sara Schwartz**  
 📧 Sarah@quantum360.co.il
+
+GitHub Repository: [NataElk/ai-recruiter-project](https://github.com/NataElk/ai-recruiter-project)
 
 ---
 
