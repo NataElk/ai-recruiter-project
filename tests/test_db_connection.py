@@ -3,7 +3,7 @@ import os
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-from app.db.db_connection import get_db_connection
+from app.db.db_connection import get_connection
 
 
 def test_connection():
